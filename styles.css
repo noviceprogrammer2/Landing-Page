@@ -1,0 +1,44 @@
+body{
+    background: #1F2937;
+    margin:0%;
+    
+}
+
+.section1{
+    margin-left: 100px;
+    margin-right:100px;
+
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.list {
+    display: flex;
+    gap: 10px;
+    
+}
+li {
+    list-style-type: none;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color:#F9FAF8
+}
+.paragraph {
+    font-size: 18px;
+    color: #E5E7EB
+}
+.section2 , .section4{
+    background:white;
+    margin: 0%;
+
+}
+.section3{
+background: #E5E7EB;
+margin: 0%;
+}
+
